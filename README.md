@@ -1,5 +1,8 @@
 # cs310-spring2025-cp2
-Full Name: GitHub ID: Binghamton CS userid: Discord name:
+Full Name: 
+GitHub ID: 
+Binghamton CS userid: 
+Discord name:
 
 Please type or copy the CS 310 honesty statement here:
 
